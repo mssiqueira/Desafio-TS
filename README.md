@@ -1,2 +1,2 @@
-# Desafio TS
- desafio TypeScript Bootcamps Santander 2022
+# resolução do desafio 04 - Introdução basica ao TypeScript
+

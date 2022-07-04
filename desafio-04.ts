@@ -1,4 +1,4 @@
-let apiKey: string 
+let apiKey: string;
 let requestToken: string;
 let username: string;
 let password: string;
